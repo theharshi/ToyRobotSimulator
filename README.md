@@ -1,4 +1,4 @@
-Running a Java Project from GitHub in IntelliJ IDEA:
+To Run this on IntelliJ IDEA please follow following steps:
 
     1.Clone the GitHub Repository:
         Copy the GitHub repository URL to your clipboard.
@@ -12,6 +12,6 @@ Running a Java Project from GitHub in IntelliJ IDEA:
         You can now view and edit the code.
 
     3.Run the Application:
-        Locate the main class (usually named Main or similar).
+        Locate the main class .
         Right-click on the class and select Run ‘Main’.
         The application will execute, and you’ll see the output in the Run Tool Window
